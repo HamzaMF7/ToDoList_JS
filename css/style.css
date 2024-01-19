@@ -62,6 +62,12 @@ h2 {
   color: white;
   /* font-weight: bold; */
   font-size: 1.2em;
+  cursor: pointer;
+  transition: .2s ease;
+  text-transform: capitalize;
+}
+.btn:hover {
+  background-color:  #591ecf;;
 }
 .rmv-btn {
   height: 40px;
